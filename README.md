@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zakariyahrobiat
+- 👋 Hi, I’m @zakariyahrobiah
 - 👀 I’m interested in an internship
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me https://wa.me/qr/ORJ5KEUDV2JEP1
 
