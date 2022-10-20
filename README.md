@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zakariyahrobiah
-- 👀 I’m interested in an internship
+- 👀 I’m interested in an internship, entry or volunteering frontend developer role
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me https://wa.me/qr/ORJ5KEUDV2JEP1
