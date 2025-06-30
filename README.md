@@ -8,7 +8,7 @@ I'm a passionate **Frontend Developer** who loves building clean, responsive, an
 - 💡 I enjoy contributing to **open source**, collaborating on real-world projects, and continuously improving through feedback and practice.
 - 🚀 Some of my projects:
   - 🍲 Food e-commerce platform – [Live Site](https://robiah-food.netlify.app/)
-  - ✈️ E-flight registration system – [Register](https://e-flight.netlify.app/register)
+  - ✈️ E-flight registration system – [Live Site](https://e-flight.netlify.app/)
   
 - 📫 Let’s connect: [Send me a WhatsApp Message](https://wa.me/qr/ORJ5KEUDV2JEP1)
 
