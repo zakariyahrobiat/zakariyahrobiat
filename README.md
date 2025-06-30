@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @zakariyahrobiah
-- 👀 I’m interested in an internship, entry or volunteering frontend developer role
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me https://wa.me/qr/ORJ5KEUDV2JEP1
+### 👋 Hi there, I’m Zakariyah Robiah!
+
+I'm a passionate **Frontend Developer** who loves building clean, responsive, and user-friendly web interfaces.
+
+- 💼 Open to **remote or hybrid frontend opportunities** (full-time, part-time, or contract).
+- 🛠️ Tech stack: **JavaScript**, **TypeScript**, **React**, **TailwindCSS**, **SCSS**, and **React Hook Form**
+- 🌱 Currently expanding into **backend development** with JavaScript/TypeScript.
+- 💡 I enjoy contributing to **open source**, collaborating on real-world projects, and continuously improving through feedback and practice.
+- 🚀 Some of my projects:
+  - 🍲 Food e-commerce platform – [Live Site](https://robiah-food.netlify.app/)
+  - ✈️ E-flight registration system – [Register](https://e-flight.netlify.app/register)
+  
+- 📫 Let’s connect: [Send me a WhatsApp Message](https://wa.me/qr/ORJ5KEUDV2JEP1)
+
 [![@zakariyaharobiat12's Holopin board](https://holopin.me/zakariyaharobiat12)](https://holopin.io/@zakariyaharobiat12)
+
 <!---
 zakariyahrobiat/zakariyahrobiat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
